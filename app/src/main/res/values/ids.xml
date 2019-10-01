@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btOne" type="id" />
+    <item name="btTwo" type="id" />
+    <item name="btThree" type="id" />
+    <item name="btFour" type="id" />
+    <item name="btFive" type="id" />
+    <item name="btSix" type="id" />
+    <item name="btSeven" type="id" />
+    <item name="btEight" type="id" />
+    <item name="btNine" type="id" />
+    <item name="btZero" type="id" />
+    <item name="btPlus" type="id" />
+    <item name="btMinus" type="id" />
+    <item name="btMulti" type="id" />
+    <item name="btDiv" type="id" />
+    <item name="btEqual" type="id" />
+    <item name="btClear" type="id" />
+    <item name="action_settings" type="id" />
+    <item name="tvLCD" type="id" />
+    <item name="plus" type="id" />
+    <item name="minus" type="id" />
+</resources>

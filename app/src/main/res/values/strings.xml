@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="btn_2">2</string>
+    <string name="btn_1">1</string>
+    <string name="btn_3">3</string>
+    <string name="btn_4">4</string>
+    <string name="btn_5">5</string>
+    <string name="btn_6">6</string>
+    <string name="btn_7">7</string>
+    <string name="btn_8">8</string>
+    <string name="btn_9">9</string>
+    <string name="btn_0">0</string>
+    <string name="point">.</string>
+    <string name="btn_c">c</string>
+    <string name="btn_sign">-/+</string>
+    <string name="btn_percent">%</string>
+    <string name="btn_division">/</string>
+    <string name="btn_multiplication">*</string>
+    <string name="btn_minus">-</string>
+    <string name="btn_plus">+</string>
+    <string name="btn_smooth">=</string>
+    <string name="btn_visible">vis</string>
+    <string name="ctng">ctng</string>
+    <string name="x2">x2</string>
+    <string name="ans">Ans</string>
+    <string name="tan">tan</string>
+    <string name="e">e</string>
+    <string name="log">log</string>
+    <string name="cos">cos</string>
+    <string name="exp">EXP</string>
+    <string name="btn_bracket_1">)</string>
+    <string name="ln">ln</string>
+    <string name="sin">sin</string>
+    <string name="lnv">lnv</string>
+    <string name="btn_bracket_2">(</string>
+    <string name="x">x!</string>
+    <string name="deg">deg</string>
+    <string name="rad">rad</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+</resources>
